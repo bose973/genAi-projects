@@ -1,7 +1,3 @@
-This README is designed to be professional, clear, and easy to navigate—perfect for a GitHub repository or a project portfolio.
-
----
-
 # 🤖 AI-Powered HR Assistant: Nestlé HR Policy Bot
 
 An intelligent conversational interface designed to parse, understand, and retrieve information from **Nestlé’s HR Policy documents**. This project leverages Retrieval-Augmented Generation (RAG) to provide employees with instant, accurate answers to policy-related questions.
